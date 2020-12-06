@@ -24,6 +24,8 @@
   * Winning Vote Count: 272,892
   * Winning Percentage: 73.8%
 
+![](/Resources/Electon_txt.png)
+
 
 ## Election-Audit Summary
 #### The script written for this project was successfully used to analyze the data provided for the Congressional election. The same script, with some modifications, could be used for other congressional elections or even larger elections.  
